@@ -32,7 +32,7 @@ require (
 	github.com/stretchr/testify v1.8.2
 	golang.org/x/term v0.7.0
 	gopkg.in/yaml.v3 v3.0.1
-	gotest.tools/v3 v3.4.0
+	gotest.tools/v3 v3.5.1
 )
 
 require (
